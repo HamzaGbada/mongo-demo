@@ -38,4 +38,4 @@ Welcome to the DevOps Practical Exam! Your task is to establish a fully automate
 
 Good luck! Your goal is to demonstrate a robust and efficient CI/CD pipeline that ensures the seamless integration, testing, and deployment of the Spring Boot application while maintaining code quality and security.
 
-### Deadline
+Deadline: 14 December 2023
