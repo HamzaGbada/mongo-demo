@@ -30,12 +30,7 @@ Welcome to the DevOps Practical Exam! Your task is to establish a fully automate
 7. **Code Quality Analysis with SonarQube:**
     - Incorporate SonarQube into the Jenkins pipeline for continuous code quality assessment.
 
-### Submission Guidelines:
 
-- Document your progress in a step-by-step guide, including configuration files, scripts, and commands used.
-- Provide explanations for your choices and any challenges faced during the implementation.
-- Include screenshots or outputs demonstrating the successful execution of each step.
+Deadline: 13 December 2023
 
-Good luck! Your goal is to demonstrate a robust and efficient CI/CD pipeline that ensures the seamless integration, testing, and deployment of the Spring Boot application while maintaining code quality and security.
-
-Deadline: 14 December 2023
+Good luck! 
